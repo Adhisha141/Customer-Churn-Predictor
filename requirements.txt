@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+transformers
+torch
+plotly
+joblib
